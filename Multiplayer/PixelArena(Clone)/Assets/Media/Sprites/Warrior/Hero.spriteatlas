@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Hero
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 2
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 42b02bf115aad704280d9abca67cc63b, type: 3}
+    - {fileID: 2800000, guid: a6bc4631ba16b974faa777f29506d0a9, type: 3}
+    - {fileID: 2800000, guid: 5ffa5989bf17742fc8bd95a3150f8f2d, type: 3}
+    - {fileID: 2800000, guid: 04b0ab322bf124c71a6bcdaa7d502600, type: 3}
+    - {fileID: 2800000, guid: 82653d2a12771f244a321662340d9cda, type: 3}
+    - {fileID: 2800000, guid: 23e0764bd61300e4087ad2408dc2bcf0, type: 3}
+    - {fileID: 2800000, guid: 41c5de12d57aa0c4a9293627492fd568, type: 3}
+    - {fileID: 2800000, guid: f87805895971b5446909878ae1a2a7fe, type: 3}
+    - {fileID: 2800000, guid: 206174fc8ad794ebb9c8a615ad1f3fbc, type: 3}
+    - {fileID: 2800000, guid: 66d593759d733428cacd70c793dd56c7, type: 3}
+    - {fileID: 2800000, guid: b8fc8b39b1b79440da5a8fd19ecf4a6b, type: 3}
+    - {fileID: 2800000, guid: ebc31f9e567384e0980fae73836fc5c7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a6bc4631ba16b974faa777f29506d0a9, type: 3}
+  - {fileID: 21300000, guid: 42b02bf115aad704280d9abca67cc63b, type: 3}
+  - {fileID: 21300000, guid: 41c5de12d57aa0c4a9293627492fd568, type: 3}
+  - {fileID: 21300000, guid: 04b0ab322bf124c71a6bcdaa7d502600, type: 3}
+  - {fileID: 21300000, guid: 66d593759d733428cacd70c793dd56c7, type: 3}
+  - {fileID: 21300000, guid: b8fc8b39b1b79440da5a8fd19ecf4a6b, type: 3}
+  - {fileID: 21300000, guid: f87805895971b5446909878ae1a2a7fe, type: 3}
+  - {fileID: 21300000, guid: 5ffa5989bf17742fc8bd95a3150f8f2d, type: 3}
+  - {fileID: 21300000, guid: 82653d2a12771f244a321662340d9cda, type: 3}
+  - {fileID: 21300000, guid: 23e0764bd61300e4087ad2408dc2bcf0, type: 3}
+  - {fileID: 21300000, guid: 206174fc8ad794ebb9c8a615ad1f3fbc, type: 3}
+  - {fileID: 21300000, guid: ebc31f9e567384e0980fae73836fc5c7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hero_idle_left_2
+  - hero_idle_left_1
+  - hero_run_left_3
+  - hero_idle_right_2
+  - hero_run_right_2
+  - hero_run_right_3
+  - hero_run_left_4
+  - hero_idle_right_1
+  - hero_run_left_1
+  - hero_run_left_2
+  - hero_run_right_1
+  - hero_run_right_4
+  m_Tag: Hero
+  m_IsVariant: 0

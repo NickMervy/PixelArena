@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.textmeshpro": "1.2.4",
+    "com.unity.cinemachine": "2.2.7"
+  }
+}
